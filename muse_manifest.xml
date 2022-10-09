@@ -1,0 +1,598 @@
+<manifest alg="2" build="2018.0.0.379" opt="false" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive,cachebuster,textStyling" exportTarget="other" domain="cigam.ru" resolutions="1x" timestamp="1582091611787">
+  <folder name="css">
+    <file name="site_global.css" crc="444006867"/>
+    <file name="master_______-b.css" crc="4212302369" ref="zayavka"/>
+    <file name="master_______-a.css" crc="4195495805" ref="otzyvy-копия:fokusnik_na_ubilei:index:spasibo:fokusnik_na_korporativ:detskiy_prazdnik:fokusnik_na_svadbu:shkola_volshebstva:master_klass:fokusnik_na_vipusknoi:fokusnik_na_den_rozhdeniya_rebenka:fokusnik_na_den_rozhdeniya_vzroslym:obuchenie_fokusam:otzyvy:show_dlya_vzroslih"/>
+    <file name="fokusnik_na_ubilei.css" crc="4177367747" ref="fokusnik_na_ubilei"/>
+    <file name="iefonts_fokusnik_na_ubilei.css" crc="436304251" ref="fokusnik_na_ubilei"/>
+    <file name="index.css" crc="294073923" ref="index"/>
+    <file name="iefonts_index.css" crc="358482681" ref="index"/>
+    <file name="spasibo.css" crc="3842052315" ref="spasibo"/>
+    <file name="iefonts_spasibo.css" crc="4177043680" ref="spasibo"/>
+    <file name="fokusnik_na_korporativ.css" crc="4111296852" ref="fokusnik_na_korporativ"/>
+    <file name="iefonts_fokusnik_na_korporativ.css" crc="3783997620" ref="fokusnik_na_korporativ"/>
+    <file name="detskiy_prazdnik.css" crc="3932265430" ref="detskiy_prazdnik"/>
+    <file name="iefonts_detskiy_prazdnik.css" crc="102472054" ref="detskiy_prazdnik"/>
+    <file name="fokusnik_na_svadbu.css" crc="380203363" ref="fokusnik_na_svadbu"/>
+    <file name="iefonts_fokusnik_na_svadbu.css" crc="454144565" ref="fokusnik_na_svadbu"/>
+    <file name="shkola_volshebstva.css" crc="4139675618" ref="shkola_volshebstva"/>
+    <file name="iefonts_shkola_volshebstva.css" crc="405182792" ref="shkola_volshebstva"/>
+    <file name="master_klass.css" crc="469619447" ref="master_klass"/>
+    <file name="iefonts_master_klass.css" crc="3816427555" ref="master_klass"/>
+    <file name="fokusnik_na_vipusknoi.css" crc="3819909282" ref="fokusnik_na_vipusknoi"/>
+    <file name="iefonts_fokusnik_na_vipusknoi.css" crc="3830871695" ref="fokusnik_na_vipusknoi"/>
+    <file name="fokusnik_na_den_rozhdeniya_rebenka.css" crc="4085126072" ref="fokusnik_na_den_rozhdeniya_rebenka"/>
+    <file name="iefonts_fokusnik_na_den_rozhdeniya_rebenka.css" crc="4198254748" ref="fokusnik_na_den_rozhdeniya_rebenka"/>
+    <file name="otzyvy-_____.css" crc="256966603" ref="otzyvy-копия"/>
+    <file name="iefonts_otzyvy-_____.css" crc="4020775024" ref="otzyvy-копия"/>
+    <file name="fokusnik_na_den_rozhdeniya_vzroslym.css" crc="3885588380" ref="fokusnik_na_den_rozhdeniya_vzroslym"/>
+    <file name="iefonts_fokusnik_na_den_rozhdeniya_vzroslym.css" crc="3834910748" ref="fokusnik_na_den_rozhdeniya_vzroslym"/>
+    <file name="zayavka.css" crc="128450999" ref="zayavka"/>
+    <file name="obuchenie_fokusam.css" crc="244905986" ref="obuchenie_fokusam"/>
+    <file name="iefonts_obuchenie_fokusam.css" crc="3899646784" ref="obuchenie_fokusam"/>
+    <file name="otzyvy.css" crc="14541392" ref="otzyvy"/>
+    <file name="iefonts_otzyvy.css" crc="4141152591" ref="otzyvy"/>
+    <file name="show_dlya_vzroslih.css" crc="354094024" ref="show_dlya_vzroslih"/>
+    <file name="iefonts_show_dlya_vzroslih.css" crc="405082491" ref="show_dlya_vzroslih"/>
+  </folder>
+  <folder name="assets">
+    <file name="mobmenu-js.js" crc="4185159406" seo="true" mt="1468441288000"/>
+    <file name="menu.png" crc="4238109778" seo="true" mt="1521026429000"/>
+    <file name="logo-cigam.png" crc="392144208" seo="true" mt="1520940450000"/>
+    <file name="admin_template.txt" crc="65607206" seo="true" mt="1457431035000"/>
+    <file name="config.php" crc="4125722227" seo="true" mt="1476806431000"/>
+    <file name="coolform2script.js" crc="3925064844" seo="true" mt="1474539241000"/>
+    <file name="coolform2style.css" crc="483063936" seo="true" mt="1476809068000"/>
+    <file name="fake_response.php" crc="3942735239" seo="true" mt="1445586027000"/>
+    <file name="myform.php" crc="350757340" seo="true" mt="1476810682000"/>
+    <file name="orders_count.txt" crc="109378062" seo="true" mt="1457430930000"/>
+    <file name="user_template.txt" crc="3860340587" seo="true" mt="1457431056000"/>
+  </folder>
+  <folder name="scripts">
+    <file name="jquery-1.8.3.min.js" crc="209076791" ref="phone>index:phone>show_dlya_vzroslih:phone>detskiy_prazdnik:phone>obuchenie_fokusam:phone>spasibo:phone>otzyvy:index:show_dlya_vzroslih:detskiy_prazdnik:obuchenie_fokusam:fokusnik_na_svadbu:fokusnik_na_ubilei:fokusnik_na_den_rozhdeniya_vzroslym:fokusnik_na_korporativ:fokusnik_na_den_rozhdeniya_rebenka:fokusnik_na_vipusknoi:otzyvy:shkola_volshebstva:master_klass:zayavka:spasibo:otzyvy-копия"/>
+    <file name="museutils.js" crc="3803043152" ref="phone>index:phone>show_dlya_vzroslih:phone>detskiy_prazdnik:phone>obuchenie_fokusam:phone>spasibo:phone>otzyvy:index:show_dlya_vzroslih:detskiy_prazdnik:obuchenie_fokusam:fokusnik_na_svadbu:fokusnik_na_ubilei:fokusnik_na_den_rozhdeniya_vzroslym:fokusnik_na_korporativ:fokusnik_na_den_rozhdeniya_rebenka:fokusnik_na_vipusknoi:otzyvy:shkola_volshebstva:master_klass:zayavka:spasibo:otzyvy-копия"/>
+    <file name="whatinput.js" crc="86476730" ref="phone>index:phone>show_dlya_vzroslih:phone>detskiy_prazdnik:phone>obuchenie_fokusam:phone>spasibo:phone>otzyvy:index:show_dlya_vzroslih:detskiy_prazdnik:obuchenie_fokusam:fokusnik_na_svadbu:fokusnik_na_ubilei:fokusnik_na_den_rozhdeniya_vzroslym:fokusnik_na_korporativ:fokusnik_na_den_rozhdeniya_rebenka:fokusnik_na_vipusknoi:otzyvy:shkola_volshebstva:master_klass:zayavka:spasibo:otzyvy-копия"/>
+    <file name="museconfig.js" crc="380897831" ref="phone>index:phone>show_dlya_vzroslih:phone>detskiy_prazdnik:phone>obuchenie_fokusam:phone>spasibo:phone>otzyvy:index:show_dlya_vzroslih:detskiy_prazdnik:obuchenie_fokusam:fokusnik_na_svadbu:fokusnik_na_ubilei:fokusnik_na_den_rozhdeniya_vzroslym:fokusnik_na_korporativ:fokusnik_na_den_rozhdeniya_rebenka:fokusnik_na_vipusknoi:otzyvy:shkola_volshebstva:master_klass:zayavka:spasibo:otzyvy-копия"/>
+    <file name="jquery.musepolyfill.bgsize.js" crc="4148998990" ref="phone>index:index:zayavka"/>
+    <file name="jquery.watch.js" crc="99325471" ref="phone>index:phone>show_dlya_vzroslih:phone>detskiy_prazdnik:phone>obuchenie_fokusam:phone>spasibo:phone>otzyvy:index:show_dlya_vzroslih:detskiy_prazdnik:obuchenie_fokusam:fokusnik_na_svadbu:fokusnik_na_ubilei:fokusnik_na_den_rozhdeniya_vzroslym:fokusnik_na_korporativ:fokusnik_na_den_rozhdeniya_rebenka:fokusnik_na_vipusknoi:otzyvy:shkola_volshebstva:master_klass:zayavka:spasibo:otzyvy-копия"/>
+    <file name="require.js" crc="4157109226" ref="phone>index:phone>show_dlya_vzroslih:phone>detskiy_prazdnik:phone>obuchenie_fokusam:phone>spasibo:phone>otzyvy:index:show_dlya_vzroslih:detskiy_prazdnik:obuchenie_fokusam:fokusnik_na_svadbu:fokusnik_na_ubilei:fokusnik_na_den_rozhdeniya_vzroslym:fokusnik_na_korporativ:fokusnik_na_den_rozhdeniya_rebenka:fokusnik_na_vipusknoi:otzyvy:shkola_volshebstva:master_klass:zayavka:spasibo:otzyvy-копия"/>
+    <file name="webpro.js" crc="242022427" ref="index:show_dlya_vzroslih:detskiy_prazdnik:obuchenie_fokusam:fokusnik_na_svadbu:fokusnik_na_ubilei:fokusnik_na_den_rozhdeniya_vzroslym:fokusnik_na_korporativ:fokusnik_na_den_rozhdeniya_rebenka:fokusnik_na_vipusknoi:otzyvy:shkola_volshebstva:master_klass:zayavka:spasibo:otzyvy-копия:phone>index:phone>show_dlya_vzroslih:phone>detskiy_prazdnik:phone>obuchenie_fokusam:phone>spasibo:phone>otzyvy"/>
+    <file name="musewpslideshow.js" crc="457073769" ref="index:show_dlya_vzroslih:detskiy_prazdnik:obuchenie_fokusam:fokusnik_na_svadbu:fokusnik_na_ubilei:fokusnik_na_den_rozhdeniya_vzroslym:fokusnik_na_korporativ:fokusnik_na_den_rozhdeniya_rebenka:fokusnik_na_vipusknoi:otzyvy:shkola_volshebstva:master_klass:spasibo:otzyvy-копия"/>
+    <file name="jquery.museoverlay.js" crc="483674903" ref="index:show_dlya_vzroslih:detskiy_prazdnik:obuchenie_fokusam:fokusnik_na_svadbu:fokusnik_na_ubilei:fokusnik_na_den_rozhdeniya_vzroslym:fokusnik_na_korporativ:fokusnik_na_den_rozhdeniya_rebenka:fokusnik_na_vipusknoi:otzyvy:shkola_volshebstva:master_klass:spasibo:otzyvy-копия"/>
+    <file name="touchswipe.js" crc="4066113679" ref="index:show_dlya_vzroslih:detskiy_prazdnik:obuchenie_fokusam:fokusnik_na_svadbu:fokusnik_na_ubilei:fokusnik_na_den_rozhdeniya_vzroslym:fokusnik_na_korporativ:fokusnik_na_den_rozhdeniya_rebenka:fokusnik_na_vipusknoi:otzyvy:shkola_volshebstva:master_klass:spasibo:otzyvy-копия"/>
+    <file name="jquery.musemenu.js" crc="3784699396" ref="index:show_dlya_vzroslih:detskiy_prazdnik:obuchenie_fokusam:fokusnik_na_svadbu:fokusnik_na_ubilei:fokusnik_na_den_rozhdeniya_vzroslym:fokusnik_na_korporativ:fokusnik_na_den_rozhdeniya_rebenka:fokusnik_na_vipusknoi:otzyvy:shkola_volshebstva:master_klass:spasibo:otzyvy-копия"/>
+    <file name="html5shiv.js" crc="4241844378" ref="index:show_dlya_vzroslih:detskiy_prazdnik:obuchenie_fokusam:fokusnik_na_svadbu:fokusnik_na_ubilei:fokusnik_na_den_rozhdeniya_vzroslym:fokusnik_na_korporativ:fokusnik_na_den_rozhdeniya_rebenka:fokusnik_na_vipusknoi:otzyvy:shkola_volshebstva:master_klass:zayavka:spasibo:otzyvy-копия"/>
+    <file name="musewpdisclosure.js" crc="119288625" ref="show_dlya_vzroslih:detskiy_prazdnik:obuchenie_fokusam:fokusnik_na_svadbu:fokusnik_na_ubilei:fokusnik_na_den_rozhdeniya_vzroslym:fokusnik_na_korporativ:fokusnik_na_den_rozhdeniya_rebenka:master_klass:zayavka"/>
+    <file name="form_check.php" crc="147359589" ref="zayavka:phone>index"/>
+    <file name="form_throttle.php" crc="93986428" ref="zayavka:phone>index"/>
+    <file name="form_process.php" crc="3851993751" ref="zayavka:phone>index"/>
+    <file name="form-u40324.php" crc="3842302810" ref="zayavka"/>
+    <file name="jquery.scrolleffects.js" crc="530399994" ref="zayavka"/>
+    <file name="form-u39399.php" crc="3951579561" ref="index"/>
+    <file name="form-u39554.php" crc="4080296710" ref="phone>index"/>
+  </folder>
+  <folder name="images">
+    <file name="closed.png" crc="4043838524" ref="phone>index:index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="dark_embroidery.jpg" crc="184899101" ref="phone>index:phone>show_dlya_vzroslih:phone>detskiy_prazdnik:phone>obuchenie_fokusam:index:zayavka">
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="detskiy_prazdnik" alt=""/>
+      <caption webpage="detskiy_prazdnik" alt=""/>
+      <caption webpage="otzyvy-копия" alt=""/>
+      <caption webpage="otzyvy-копия" alt=""/>
+      <caption webpage="zayavka" alt=""/>
+      <caption webpage="show_dlya_vzroslih" alt=""/>
+      <caption webpage="show_dlya_vzroslih" alt=""/>
+      <caption webpage="obuchenie_fokusam" alt=""/>
+    </file>
+    <file name="logo cigam.png" crc="392144208" seo="true" ref="phone>index:phone>show_dlya_vzroslih:phone>detskiy_prazdnik:phone>obuchenie_fokusam:phone>spasibo:phone>otzyvy">
+      <caption webpage="index" alt=""/>
+      <caption webpage="detskiy_prazdnik" alt=""/>
+      <caption webpage="spasibo" alt=""/>
+      <caption webpage="otzyvy" alt=""/>
+      <caption webpage="show_dlya_vzroslih" alt=""/>
+      <caption webpage="obuchenie_fokusam" alt=""/>
+    </file>
+    <file name="mobmenu.jpg" crc="3897806872" ref="phone>index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="87413 копия.png" crc="4152229393" seo="true" ref="phone>index:phone>show_dlya_vzroslih:phone>detskiy_prazdnik:phone>obuchenie_fokusam:phone>spasibo:phone>otzyvy:index:show_dlya_vzroslih:detskiy_prazdnik:obuchenie_fokusam:fokusnik_na_svadbu:fokusnik_na_ubilei:fokusnik_na_den_rozhdeniya_vzroslym:fokusnik_na_korporativ:fokusnik_na_den_rozhdeniya_rebenka:fokusnik_na_vipusknoi:otzyvy:shkola_volshebstva:master_klass:spasibo:otzyvy-копия">
+      <caption webpage="detskiy_prazdnik" alt=""/>
+      <caption webpage="detskiy_prazdnik" alt=""/>
+      <caption webpage="shkola_volshebstva" alt=""/>
+      <caption webpage="otzyvy" alt=""/>
+      <caption webpage="otzyvy" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="fokusnik_na_den_rozhdeniya_rebenka" alt=""/>
+      <caption webpage="fokusnik_na_korporativ" alt=""/>
+      <caption webpage="show_dlya_vzroslih" alt=""/>
+      <caption webpage="show_dlya_vzroslih" alt=""/>
+      <caption webpage="fokusnik_na_den_rozhdeniya_vzroslym" alt=""/>
+      <caption webpage="spasibo" alt=""/>
+      <caption webpage="spasibo" alt=""/>
+      <caption webpage="otzyvy-копия" alt=""/>
+      <caption webpage="fokusnik_na_svadbu" alt=""/>
+      <caption webpage="fokusnik_na_ubilei" alt=""/>
+      <caption webpage="test" alt=""/>
+      <caption webpage="master_klass" alt=""/>
+      <caption webpage="fokusnik_na_vipusknoi" alt=""/>
+      <caption webpage="obuchenie_fokusam" alt=""/>
+      <caption webpage="obuchenie_fokusam" alt=""/>
+    </file>
+    <file name="whatsapp_png14 копия.png" crc="3826714409" seo="true" ref="phone>index:phone>show_dlya_vzroslih:phone>detskiy_prazdnik:phone>obuchenie_fokusam:phone>spasibo:phone>otzyvy:index:show_dlya_vzroslih:detskiy_prazdnik:obuchenie_fokusam:fokusnik_na_svadbu:fokusnik_na_ubilei:fokusnik_na_den_rozhdeniya_vzroslym:fokusnik_na_korporativ:fokusnik_na_den_rozhdeniya_rebenka:fokusnik_na_vipusknoi:otzyvy:shkola_volshebstva:master_klass:spasibo:otzyvy-копия">
+      <caption webpage="detskiy_prazdnik" alt=""/>
+      <caption webpage="detskiy_prazdnik" alt=""/>
+      <caption webpage="shkola_volshebstva" alt=""/>
+      <caption webpage="otzyvy" alt=""/>
+      <caption webpage="otzyvy" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="fokusnik_na_den_rozhdeniya_rebenka" alt=""/>
+      <caption webpage="fokusnik_na_korporativ" alt=""/>
+      <caption webpage="show_dlya_vzroslih" alt=""/>
+      <caption webpage="show_dlya_vzroslih" alt=""/>
+      <caption webpage="fokusnik_na_den_rozhdeniya_vzroslym" alt=""/>
+      <caption webpage="spasibo" alt=""/>
+      <caption webpage="spasibo" alt=""/>
+      <caption webpage="otzyvy-копия" alt=""/>
+      <caption webpage="fokusnik_na_svadbu" alt=""/>
+      <caption webpage="fokusnik_na_ubilei" alt=""/>
+      <caption webpage="test" alt=""/>
+      <caption webpage="master_klass" alt=""/>
+      <caption webpage="fokusnik_na_vipusknoi" alt=""/>
+      <caption webpage="obuchenie_fokusam" alt=""/>
+      <caption webpage="obuchenie_fokusam" alt=""/>
+    </file>
+    <file name="1485969384-vibersocialnetworkbrandlogo_78890 копия.png" crc="451936327" seo="true" ref="phone>index:phone>show_dlya_vzroslih:phone>detskiy_prazdnik:phone>obuchenie_fokusam:phone>spasibo:phone>otzyvy:index:show_dlya_vzroslih:detskiy_prazdnik:obuchenie_fokusam:fokusnik_na_svadbu:fokusnik_na_ubilei:fokusnik_na_den_rozhdeniya_vzroslym:fokusnik_na_korporativ:fokusnik_na_den_rozhdeniya_rebenka:fokusnik_na_vipusknoi:otzyvy:shkola_volshebstva:master_klass:spasibo:otzyvy-копия">
+      <caption webpage="detskiy_prazdnik" alt=""/>
+      <caption webpage="detskiy_prazdnik" alt=""/>
+      <caption webpage="shkola_volshebstva" alt=""/>
+      <caption webpage="otzyvy" alt=""/>
+      <caption webpage="otzyvy" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="fokusnik_na_den_rozhdeniya_rebenka" alt=""/>
+      <caption webpage="fokusnik_na_korporativ" alt=""/>
+      <caption webpage="show_dlya_vzroslih" alt=""/>
+      <caption webpage="show_dlya_vzroslih" alt=""/>
+      <caption webpage="fokusnik_na_den_rozhdeniya_vzroslym" alt=""/>
+      <caption webpage="spasibo" alt=""/>
+      <caption webpage="spasibo" alt=""/>
+      <caption webpage="otzyvy-копия" alt=""/>
+      <caption webpage="fokusnik_na_svadbu" alt=""/>
+      <caption webpage="fokusnik_na_ubilei" alt=""/>
+      <caption webpage="test" alt=""/>
+      <caption webpage="master_klass" alt=""/>
+      <caption webpage="fokusnik_na_vipusknoi" alt=""/>
+      <caption webpage="obuchenie_fokusam" alt=""/>
+      <caption webpage="obuchenie_fokusam" alt=""/>
+    </file>
+    <file name="squared_metal.jpg" crc="4022540909" ref="phone>index:phone>show_dlya_vzroslih:phone>detskiy_prazdnik:phone>obuchenie_fokusam:index:show_dlya_vzroslih:detskiy_prazdnik:obuchenie_fokusam:fokusnik_na_svadbu:fokusnik_na_ubilei:fokusnik_na_den_rozhdeniya_vzroslym:fokusnik_na_korporativ:fokusnik_na_den_rozhdeniya_rebenka:fokusnik_na_vipusknoi:shkola_volshebstva:master_klass">
+      <caption webpage="detskiy_prazdnik" alt=""/>
+      <caption webpage="detskiy_prazdnik" alt=""/>
+      <caption webpage="detskiy_prazdnik" alt=""/>
+      <caption webpage="fokusnik_na_den_rozhdeniya_rebenka" alt=""/>
+      <caption webpage="fokusnik_na_den_rozhdeniya_rebenka" alt=""/>
+      <caption webpage="shkola_volshebstva" alt=""/>
+      <caption webpage="fokusnik_na_svadbu" alt=""/>
+      <caption webpage="fokusnik_na_svadbu" alt=""/>
+      <caption webpage="fokusnik_na_ubilei" alt=""/>
+      <caption webpage="fokusnik_na_ubilei" alt=""/>
+      <caption webpage="show_dlya_vzroslih" alt=""/>
+      <caption webpage="show_dlya_vzroslih" alt=""/>
+      <caption webpage="show_dlya_vzroslih" alt=""/>
+      <caption webpage="fokusnik_na_den_rozhdeniya_vzroslym" alt=""/>
+      <caption webpage="fokusnik_na_den_rozhdeniya_vzroslym" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="master_klass" alt=""/>
+      <caption webpage="master_klass" alt=""/>
+      <caption webpage="fokusnik_na_vipusknoi" alt=""/>
+      <caption webpage="fokusnik_na_vipusknoi" alt=""/>
+      <caption webpage="fokusnik_na_korporativ" alt=""/>
+      <caption webpage="fokusnik_na_korporativ" alt=""/>
+      <caption webpage="obuchenie_fokusam" alt=""/>
+      <caption webpage="obuchenie_fokusam" alt=""/>
+    </file>
+    <file name="foto1106x207.png" crc="370017109" seo="true" ref="phone>index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="логотип все кроме обычого.png" crc="501985621" seo="true" ref="phone>index:phone>show_dlya_vzroslih:phone>detskiy_prazdnik:phone>obuchenie_fokusam">
+      <caption webpage="index" alt=""/>
+      <caption webpage="detskiy_prazdnik" alt=""/>
+      <caption webpage="show_dlya_vzroslih" alt=""/>
+      <caption webpage="obuchenie_fokusam" alt=""/>
+    </file>
+    <file name="merlin.png" crc="4282560408" seo="true" ref="phone>index:index">
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="wedding-rings2.png" crc="3841738842" seo="true" ref="phone>index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="holidays-christmas-tree-icon2.png" crc="535312242" seo="true" ref="phone>index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="holidays-champagne-icon2.png" crc="190462783" seo="true" ref="phone>index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="gift2.png" crc="215739746" seo="true" ref="phone>index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="11545-2002.png" crc="312107749" seo="true" ref="phone>index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="542476-2002.png" crc="3769288292" seo="true" ref="phone>index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="2206302.png" crc="3802123104" seo="true" ref="phone>index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="business-graduation-cap-icon2.png" crc="3862674198" seo="true" ref="phone>index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="gar.png" crc="3958516590" seo="true" ref="phone>index:index">
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="1365088587587467_large.png" crc="499766730" seo="true" ref="phone>index:index">
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="foto1108x213.png" crc="4068255984" seo="true" ref="phone>show_dlya_vzroslih">
+      <caption webpage="show_dlya_vzroslih" alt=""/>
+    </file>
+    <file name="foto2124x184.png" crc="159053709" seo="true" ref="phone>show_dlya_vzroslih">
+      <caption webpage="show_dlya_vzroslih" alt=""/>
+    </file>
+    <file name="_9cd3l61rm42.jpg" crc="23142288" seo="true" ref="phone>obuchenie_fokusam:obuchenie_fokusam">
+      <caption webpage="obuchenie_fokusam" alt=""/>
+      <caption webpage="obuchenie_fokusam" alt=""/>
+    </file>
+    <file name="favicon.ico" crc="188518896" ref="index"/>
+    <file name="mochagrunge.jpg" crc="40996265" ref="index">
+      <caption webpage="index" alt=""/>
+      <caption webpage="otzyvy-копия" alt=""/>
+    </file>
+    <file name="bg_separator.png" crc="111615973" seo="true" ref="index:show_dlya_vzroslih:detskiy_prazdnik:obuchenie_fokusam:fokusnik_na_svadbu:fokusnik_na_ubilei:fokusnik_na_den_rozhdeniya_vzroslym:fokusnik_na_korporativ:fokusnik_na_den_rozhdeniya_rebenka:fokusnik_na_vipusknoi:shkola_volshebstva:master_klass">
+      <caption webpage="detskiy_prazdnik" alt=""/>
+      <caption webpage="detskiy_prazdnik" alt=""/>
+      <caption webpage="detskiy_prazdnik" alt=""/>
+      <caption webpage="fokusnik_na_den_rozhdeniya_rebenka" alt=""/>
+      <caption webpage="fokusnik_na_den_rozhdeniya_rebenka" alt=""/>
+      <caption webpage="shkola_volshebstva" alt=""/>
+      <caption webpage="fokusnik_na_svadbu" alt=""/>
+      <caption webpage="fokusnik_na_svadbu" alt=""/>
+      <caption webpage="fokusnik_na_ubilei" alt=""/>
+      <caption webpage="fokusnik_na_ubilei" alt=""/>
+      <caption webpage="show_dlya_vzroslih" alt=""/>
+      <caption webpage="show_dlya_vzroslih" alt=""/>
+      <caption webpage="fokusnik_na_den_rozhdeniya_vzroslym" alt=""/>
+      <caption webpage="fokusnik_na_den_rozhdeniya_vzroslym" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="master_klass" alt=""/>
+      <caption webpage="master_klass" alt=""/>
+      <caption webpage="fokusnik_na_vipusknoi" alt=""/>
+      <caption webpage="fokusnik_na_vipusknoi" alt=""/>
+      <caption webpage="fokusnik_na_korporativ" alt=""/>
+      <caption webpage="fokusnik_na_korporativ" alt=""/>
+      <caption webpage="obuchenie_fokusam" alt=""/>
+    </file>
+    <file name="crossword.jpg" crc="41210746" ref="index:otzyvy:spasibo:otzyvy-копия">
+      <caption webpage="index" alt=""/>
+      <caption webpage="spasibo" alt=""/>
+      <caption webpage="otzyvy-копия" alt=""/>
+      <caption webpage="otzyvy" alt=""/>
+    </file>
+    <file name="foto1.png" crc="3961708167" seo="true" ref="index:show_dlya_vzroslih:detskiy_prazdnik:obuchenie_fokusam:fokusnik_na_svadbu:fokusnik_na_ubilei:fokusnik_na_den_rozhdeniya_vzroslym:fokusnik_na_korporativ:fokusnik_na_den_rozhdeniya_rebenka:fokusnik_na_vipusknoi:shkola_volshebstva:master_klass">
+      <caption webpage="detskiy_prazdnik" alt=""/>
+      <caption webpage="fokusnik_na_den_rozhdeniya_rebenka" alt=""/>
+      <caption webpage="shkola_volshebstva" alt=""/>
+      <caption webpage="fokusnik_na_svadbu" alt=""/>
+      <caption webpage="fokusnik_na_ubilei" alt=""/>
+      <caption webpage="show_dlya_vzroslih" alt=""/>
+      <caption webpage="fokusnik_na_den_rozhdeniya_vzroslym" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="master_klass" alt=""/>
+      <caption webpage="fokusnik_na_vipusknoi" alt=""/>
+      <caption webpage="fokusnik_na_korporativ" alt=""/>
+      <caption webpage="obuchenie_fokusam" alt=""/>
+    </file>
+    <file name="planet-earth.png" crc="4050472591" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="loudspeaker.png" crc="19214351" seo="true" ref="index:show_dlya_vzroslih">
+      <caption webpage="index" alt=""/>
+      <caption webpage="show_dlya_vzroslih" alt=""/>
+    </file>
+    <file name="mortarboard.png" crc="145511092" seo="true" ref="index:detskiy_prazdnik">
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="detskiy_prazdnik" alt=""/>
+    </file>
+    <file name="support.png" crc="3992175400" seo="true" ref="index:obuchenie_fokusam:fokusnik_na_svadbu:fokusnik_na_ubilei:fokusnik_na_den_rozhdeniya_vzroslym:fokusnik_na_korporativ:fokusnik_na_den_rozhdeniya_rebenka:fokusnik_na_vipusknoi:master_klass">
+      <caption webpage="fokusnik_na_den_rozhdeniya_vzroslym" alt=""/>
+      <caption webpage="fokusnik_na_svadbu" alt=""/>
+      <caption webpage="fokusnik_na_ubilei" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="fokusnik_na_den_rozhdeniya_rebenka" alt=""/>
+      <caption webpage="master_klass" alt=""/>
+      <caption webpage="fokusnik_na_korporativ" alt=""/>
+      <caption webpage="fokusnik_na_vipusknoi" alt=""/>
+      <caption webpage="obuchenie_fokusam" alt=""/>
+    </file>
+    <file name="trophy.png" crc="282925292" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="tv.png" crc="47924356" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="vse_krome_obi4nogo.png" crc="22158051" seo="true" ref="index:show_dlya_vzroslih:detskiy_prazdnik:obuchenie_fokusam:fokusnik_na_svadbu:fokusnik_na_ubilei:fokusnik_na_den_rozhdeniya_vzroslym:fokusnik_na_korporativ:fokusnik_na_den_rozhdeniya_rebenka:fokusnik_na_vipusknoi:shkola_volshebstva:master_klass">
+      <caption webpage="detskiy_prazdnik" alt=""/>
+      <caption webpage="fokusnik_na_den_rozhdeniya_rebenka" alt=""/>
+      <caption webpage="shkola_volshebstva" alt=""/>
+      <caption webpage="fokusnik_na_svadbu" alt=""/>
+      <caption webpage="fokusnik_na_ubilei" alt=""/>
+      <caption webpage="show_dlya_vzroslih" alt=""/>
+      <caption webpage="fokusnik_na_den_rozhdeniya_vzroslym" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="master_klass" alt=""/>
+      <caption webpage="fokusnik_na_vipusknoi" alt=""/>
+      <caption webpage="fokusnik_na_korporativ" alt=""/>
+      <caption webpage="obuchenie_fokusam" alt=""/>
+    </file>
+    <file name="marriage.png" crc="141963180" seo="true" ref="index:show_dlya_vzroslih">
+      <caption webpage="index" alt=""/>
+      <caption webpage="show_dlya_vzroslih" alt=""/>
+    </file>
+    <file name="birthday-cake.png" crc="172015027" seo="true" ref="index:show_dlya_vzroslih:detskiy_prazdnik">
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="detskiy_prazdnik" alt=""/>
+      <caption webpage="show_dlya_vzroslih" alt=""/>
+    </file>
+    <file name="crown.png" crc="323651341" seo="true" ref="index:show_dlya_vzroslih:obuchenie_fokusam:master_klass">
+      <caption webpage="index" alt=""/>
+      <caption webpage="master_klass" alt=""/>
+      <caption webpage="show_dlya_vzroslih" alt=""/>
+      <caption webpage="obuchenie_fokusam" alt=""/>
+    </file>
+    <file name="portfolio.png" crc="3804483601" seo="true" ref="index:show_dlya_vzroslih">
+      <caption webpage="index" alt=""/>
+      <caption webpage="show_dlya_vzroslih" alt=""/>
+    </file>
+    <file name="kids1_1.png" crc="4182724705" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="magician.png" crc="454304293" seo="true" ref="index:detskiy_prazdnik:fokusnik_na_den_rozhdeniya_rebenka:fokusnik_na_vipusknoi">
+      <caption webpage="index" alt=""/>
+      <caption webpage="detskiy_prazdnik" alt=""/>
+      <caption webpage="fokusnik_na_den_rozhdeniya_rebenka" alt=""/>
+      <caption webpage="fokusnik_na_vipusknoi" alt=""/>
+    </file>
+    <file name="saint-patrick.png" crc="491168886" seo="true" ref="index:detskiy_prazdnik:fokusnik_na_svadbu:fokusnik_na_ubilei:fokusnik_na_den_rozhdeniya_vzroslym:fokusnik_na_korporativ:fokusnik_na_den_rozhdeniya_rebenka:fokusnik_na_vipusknoi">
+      <caption webpage="detskiy_prazdnik" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="fokusnik_na_svadbu" alt=""/>
+      <caption webpage="fokusnik_na_ubilei" alt=""/>
+      <caption webpage="fokusnik_na_den_rozhdeniya_vzroslym" alt=""/>
+      <caption webpage="fokusnik_na_den_rozhdeniya_rebenka" alt=""/>
+      <caption webpage="fokusnik_na_korporativ" alt=""/>
+      <caption webpage="fokusnik_na_vipusknoi" alt=""/>
+    </file>
+    <file name="balloon.png" crc="3878713472" seo="true" ref="index:obuchenie_fokusam:master_klass">
+      <caption webpage="index" alt=""/>
+      <caption webpage="master_klass" alt=""/>
+      <caption webpage="obuchenie_fokusam" alt=""/>
+    </file>
+    <file name="playing-cards.png" crc="4137681957" seo="true" ref="index:obuchenie_fokusam:fokusnik_na_svadbu:fokusnik_na_ubilei:fokusnik_na_den_rozhdeniya_vzroslym:fokusnik_na_korporativ:master_klass">
+      <caption webpage="fokusnik_na_den_rozhdeniya_vzroslym" alt=""/>
+      <caption webpage="fokusnik_na_svadbu" alt=""/>
+      <caption webpage="fokusnik_na_ubilei" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="master_klass" alt=""/>
+      <caption webpage="fokusnik_na_korporativ" alt=""/>
+      <caption webpage="obuchenie_fokusam" alt=""/>
+    </file>
+    <file name="victory.png" crc="210797640" seo="true" ref="index:fokusnik_na_svadbu:fokusnik_na_ubilei:fokusnik_na_den_rozhdeniya_vzroslym:fokusnik_na_korporativ">
+      <caption webpage="index" alt=""/>
+      <caption webpage="fokusnik_na_den_rozhdeniya_vzroslym" alt=""/>
+      <caption webpage="fokusnik_na_svadbu" alt=""/>
+      <caption webpage="fokusnik_na_ubilei" alt=""/>
+      <caption webpage="fokusnik_na_korporativ" alt=""/>
+    </file>
+    <file name="knopka_nav-u21238.png" crc="4050485168" ref="index"/>
+    <file name="foto2.png" crc="497498852" seo="true" ref="show_dlya_vzroslih:detskiy_prazdnik:fokusnik_na_svadbu:fokusnik_na_ubilei:fokusnik_na_den_rozhdeniya_vzroslym:fokusnik_na_korporativ:fokusnik_na_den_rozhdeniya_rebenka:fokusnik_na_vipusknoi:master_klass:spasibo">
+      <caption webpage="detskiy_prazdnik" alt=""/>
+      <caption webpage="fokusnik_na_den_rozhdeniya_vzroslym" alt=""/>
+      <caption webpage="fokusnik_na_svadbu" alt=""/>
+      <caption webpage="fokusnik_na_ubilei" alt=""/>
+      <caption webpage="show_dlya_vzroslih" alt=""/>
+      <caption webpage="spasibo" alt=""/>
+      <caption webpage="fokusnik_na_den_rozhdeniya_rebenka" alt=""/>
+      <caption webpage="master_klass" alt=""/>
+      <caption webpage="fokusnik_na_vipusknoi" alt=""/>
+      <caption webpage="fokusnik_na_korporativ" alt=""/>
+    </file>
+    <file name="knopka_nav-u21182.png" crc="4050485168" ref="show_dlya_vzroslih"/>
+    <file name="knopka_nav-u21189.png" crc="4050485168" ref="show_dlya_vzroslih"/>
+    <file name="knopka_nav-u21224.png" crc="4050485168" ref="detskiy_prazdnik"/>
+    <file name="knopka_nav-u21252.png" crc="4050485168" ref="obuchenie_fokusam"/>
+    <file name="star.png" crc="3761427797" seo="true" ref="fokusnik_na_svadbu:fokusnik_na_ubilei:fokusnik_na_den_rozhdeniya_vzroslym:fokusnik_na_korporativ:fokusnik_na_den_rozhdeniya_rebenka:fokusnik_na_vipusknoi">
+      <caption webpage="fokusnik_na_den_rozhdeniya_vzroslym" alt=""/>
+      <caption webpage="fokusnik_na_den_rozhdeniya_rebenka" alt=""/>
+      <caption webpage="fokusnik_na_korporativ" alt=""/>
+      <caption webpage="fokusnik_na_svadbu" alt=""/>
+      <caption webpage="fokusnik_na_vipusknoi" alt=""/>
+      <caption webpage="fokusnik_na_ubilei" alt=""/>
+    </file>
+    <file name="knopka_nav-u21196.png" crc="4050485168" ref="fokusnik_na_svadbu"/>
+    <file name="knopka_nav-u21203.png" crc="4050485168" ref="fokusnik_na_ubilei"/>
+    <file name="knopka_nav-u21210.png" crc="4050485168" ref="fokusnik_na_den_rozhdeniya_vzroslym"/>
+    <file name="knopka_nav-u21217.png" crc="4050485168" ref="fokusnik_na_korporativ"/>
+    <file name="knopka_nav-u21231.png" crc="4050485168" ref="fokusnik_na_den_rozhdeniya_rebenka"/>
+    <file name="knopka_nav-u21259.png" crc="4050485168" ref="fokusnik_na_vipusknoi"/>
+    <file name="knopka_nav-u21245.png" crc="4050485168" ref="otzyvy"/>
+    <file name="d83ddd96.png" crc="4032916667" seo="true" ref="shkola_volshebstva">
+      <caption webpage="shkola_volshebstva" alt=""/>
+    </file>
+    <file name="d83cdf93.png" crc="4274773572" seo="true" ref="shkola_volshebstva">
+      <caption webpage="shkola_volshebstva" alt=""/>
+    </file>
+    <file name="d83dde4f.png" crc="394954614" seo="true" ref="shkola_volshebstva">
+      <caption webpage="shkola_volshebstva" alt=""/>
+    </file>
+    <file name="d83cdfaf.png" crc="409062289" seo="true" ref="shkola_volshebstva">
+      <caption webpage="shkola_volshebstva" alt=""/>
+    </file>
+    <file name="d83cdfad.png" crc="142777139" seo="true" ref="shkola_volshebstva">
+      <caption webpage="shkola_volshebstva" alt=""/>
+    </file>
+    <file name="knopka_nav-u22089.png" crc="4050485168" ref="shkola_volshebstva"/>
+    <file name="_9cd3l61rm42322x215.jpg" crc="23142288" seo="true" ref="master_klass">
+      <caption webpage="master_klass" alt=""/>
+    </file>
+    <file name="knopka_nav-u22307.png" crc="4050485168" ref="master_klass"/>
+    <file name="name.png" crc="48546318" ref="zayavka:phone>index:index">
+      <caption webpage="zayavka" alt="Имя заказчика"/>
+      <caption webpage="zayavka" alt="Имя заказчика"/>
+      <caption webpage="zayavka" alt="Имя заказчика"/>
+      <caption webpage="zayavka" alt="Имя заказчика"/>
+      <caption webpage="zayavka" alt="Имя заказчика"/>
+      <caption webpage="index" alt="Введите Ваше имя"/>
+      <caption webpage="index" alt="Введите Ваше имя"/>
+      <caption webpage="index" alt="Введите Ваше имя"/>
+      <caption webpage="index" alt="Введите Ваше имя"/>
+      <caption webpage="index" alt="Введите Ваше имя"/>
+      <caption webpage="index" alt="Введите Ваше имя"/>
+      <caption webpage="index" alt="Введите Ваше имя"/>
+      <caption webpage="index" alt="Введите Ваше имя"/>
+      <caption webpage="index" alt="Введите Ваше имя"/>
+      <caption webpage="index" alt="Введите Ваше имя"/>
+      <caption webpage="otzyvy-копия" alt="Введите Ваше имя"/>
+      <caption webpage="otzyvy-копия" alt="Введите Ваше имя"/>
+      <caption webpage="otzyvy-копия" alt="Введите Ваше имя"/>
+      <caption webpage="otzyvy-копия" alt="Введите Ваше имя"/>
+      <caption webpage="otzyvy-копия" alt="Введите Ваше имя"/>
+    </file>
+    <file name="phone.png" crc="465682847" ref="zayavka:phone>index:index">
+      <caption webpage="zayavka" alt="Телефон заказчика"/>
+      <caption webpage="zayavka" alt="Телефон заказчика"/>
+      <caption webpage="zayavka" alt="Телефон заказчика"/>
+      <caption webpage="zayavka" alt="Телефон заказчика"/>
+      <caption webpage="zayavka" alt="Телефон заказчика"/>
+      <caption webpage="index" alt="Введите Ваш номер телефона"/>
+      <caption webpage="index" alt="Введите Ваш номер телефона"/>
+      <caption webpage="index" alt="Введите Ваш номер телефона"/>
+      <caption webpage="index" alt="Введите Ваш номер телефона"/>
+      <caption webpage="index" alt="Введите Ваш номер телефона"/>
+      <caption webpage="index" alt="Введите Ваш номер телефона"/>
+      <caption webpage="index" alt="Введите Ваш номер телефона"/>
+      <caption webpage="index" alt="Введите Ваш номер телефона"/>
+      <caption webpage="index" alt="Введите Ваш номер телефона"/>
+      <caption webpage="index" alt="Введите Ваш номер телефона"/>
+      <caption webpage="otzyvy-копия" alt="Введите Ваш номер телефона"/>
+      <caption webpage="otzyvy-копия" alt="Введите Ваш номер телефона"/>
+      <caption webpage="otzyvy-копия" alt="Введите Ваш номер телефона"/>
+      <caption webpage="otzyvy-копия" alt="Введите Ваш номер телефона"/>
+      <caption webpage="otzyvy-копия" alt="Введите Ваш номер телефона"/>
+    </file>
+    <file name="radiobuttonunchecked.png" crc="3976871150" ref="zayavka:phone>index:index">
+      <caption webpage="zayavka" alt=""/>
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="radiobuttonuncheckedrollover.png" crc="4276313674" ref="zayavka:phone>index:index">
+      <caption webpage="zayavka" alt=""/>
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="radiobuttonuncheckedmousedown.png" crc="54863585" ref="zayavka:phone>index:index">
+      <caption webpage="zayavka" alt=""/>
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="radiobuttonchecked.png" crc="4193302265" ref="zayavka:phone>index:index">
+      <caption webpage="zayavka" alt=""/>
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="radiobuttoncheckedrollover.png" crc="88928956" ref="zayavka:phone>index:index">
+      <caption webpage="zayavka" alt=""/>
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="radiobuttoncheckedmousedown.png" crc="4280357799" ref="zayavka:phone>index:index">
+      <caption webpage="zayavka" alt=""/>
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="3-u40093.png" crc="234910582" ref="zayavka"/>
+    <file name="knopka_nav-u41136.png" crc="4050485168" ref="spasibo"/>
+    <file name="отзывы-копия-favicon.ico" crc="3762862728" ref="otzyvy-копия"/>
+    <file name="3-u15552.png" crc="234910582" ref="otzyvy-копия:index:show_dlya_vzroslih:detskiy_prazdnik:obuchenie_fokusam:fokusnik_na_svadbu:fokusnik_na_ubilei:fokusnik_na_den_rozhdeniya_vzroslym:fokusnik_na_korporativ:fokusnik_na_den_rozhdeniya_rebenka:fokusnik_na_vipusknoi:otzyvy:shkola_volshebstva:master_klass:spasibo"/>
+    <file name="3-u15040.png" crc="234910582" ref="otzyvy-копия:index:show_dlya_vzroslih:detskiy_prazdnik:obuchenie_fokusam:fokusnik_na_svadbu:fokusnik_na_ubilei:fokusnik_na_den_rozhdeniya_vzroslym:fokusnik_na_korporativ:fokusnik_na_den_rozhdeniya_rebenka:fokusnik_na_vipusknoi:otzyvy:shkola_volshebstva:master_klass:spasibo"/>
+    <file name="knopka_nav-u41580.png" crc="4050485168" ref="otzyvy-копия"/>
+    <file name="иллюзионное-шоу-для-взрослых-favicon.ico" crc="3762862728" ref="show_dlya_vzroslih"/>
+    <file name="фокусник-на-детский-праздник-favicon.ico" crc="3762862728" ref="detskiy_prazdnik"/>
+    <file name="обучение-фокусам-favicon.ico" crc="3762862728" ref="obuchenie_fokusam"/>
+    <file name="иллюзионист-на-свадьбу-favicon.ico" crc="3762862728" ref="fokusnik_na_svadbu"/>
+    <file name="иллюзионист-на-юбилей-favicon.ico" crc="3762862728" ref="fokusnik_na_ubilei"/>
+    <file name="фокусник-на-день-рождения-взрослым-favicon.ico" crc="3762862728" ref="fokusnik_na_den_rozhdeniya_vzroslym"/>
+    <file name="иллюзионист-на-корпоратив-favicon.ico" crc="3762862728" ref="fokusnik_na_korporativ"/>
+    <file name="фокусник-на-день-рождения-ребенка-favicon.ico" crc="3762862728" ref="fokusnik_na_den_rozhdeniya_rebenka"/>
+    <file name="фокусник-на-выпускной-favicon.ico" crc="3762862728" ref="fokusnik_na_vipusknoi"/>
+    <file name="отзывы-favicon.ico" crc="3762862728" ref="otzyvy"/>
+    <file name="школа-волшебства-favicon.ico" crc="3762862728" ref="shkola_volshebstva"/>
+    <file name="мастер-класс-favicon.ico" crc="3762862728" ref="master_klass"/>
+    <file name="спасибо-за-заказ-favicon.ico" crc="3762862728" ref="spasibo"/>
+  </folder>
+  <folder name="phone">
+    <folder name="css">
+      <file name="show_dlya_vzroslih.css" crc="65098900" ref="phone>show_dlya_vzroslih"/>
+      <file name="iefonts_show_dlya_vzroslih.css" crc="4038098838" ref="phone>show_dlya_vzroslih"/>
+      <file name="otzyvy.css" crc="3758551469" ref="phone>otzyvy"/>
+      <file name="iefonts_otzyvy.css" crc="3965103543" ref="phone>otzyvy"/>
+      <file name="obuchenie_fokusam.css" crc="26073347" ref="phone>obuchenie_fokusam"/>
+      <file name="iefonts_obuchenie_fokusam.css" crc="4230933790" ref="phone>obuchenie_fokusam"/>
+      <file name="index.css" crc="430455097" ref="phone>index"/>
+      <file name="iefonts_index.css" crc="3988638518" ref="phone>index"/>
+      <file name="spasibo.css" crc="4284257011" ref="phone>spasibo"/>
+      <file name="iefonts_spasibo.css" crc="4061680805" ref="phone>spasibo"/>
+      <file name="detskiy_prazdnik.css" crc="4010922654" ref="phone>detskiy_prazdnik"/>
+      <file name="iefonts_detskiy_prazdnik.css" crc="38783921" ref="phone>detskiy_prazdnik"/>
+      <file name="master_______-a.css" crc="3968224546" ref="phone>show_dlya_vzroslih:phone>otzyvy:phone>obuchenie_fokusam:phone>index:phone>spasibo:phone>detskiy_prazdnik"/>
+    </folder>
+    <file name="index.html" crc="370273005" seo="true" mt="1582091506736" redirect="true"/>
+    <file name="show_dlya_vzroslih.html" crc="173268889" seo="true" mt="1582091506736" redirect="true"/>
+    <file name="detskiy_prazdnik.html" crc="4122144178" seo="true" mt="1582091506736" redirect="true"/>
+    <file name="obuchenie_fokusam.html" crc="9221456" seo="true" mt="1582091506736" redirect="true"/>
+    <file name="spasibo.html" crc="475168233" seo="true" mt="1582091506736" redirect="true"/>
+    <file name="otzyvy.html" crc="462199584" seo="true" mt="1582091506736" redirect="true"/>
+  </folder>
+  <file name="index.html" crc="60161005" seo="true" mt="1582091477247" redirect="true"/>
+  <file name="show_dlya_vzroslih.html" crc="500955444" seo="true" mt="1582091477247" redirect="true"/>
+  <file name="detskiy_prazdnik.html" crc="37124524" seo="true" mt="1582091477247" redirect="true"/>
+  <file name="obuchenie_fokusam.html" crc="4128812504" seo="true" mt="1582091477247" redirect="true"/>
+  <file name="fokusnik_na_svadbu.html" crc="284922060" seo="true" mt="1582091477247" redirect="true"/>
+  <file name="fokusnik_na_ubilei.html" crc="121053978" seo="true" mt="1582091477247" redirect="true"/>
+  <file name="fokusnik_na_den_rozhdeniya_vzroslym.html" crc="4193228106" seo="true" mt="1582091477247" redirect="true"/>
+  <file name="fokusnik_na_korporativ.html" crc="4056735309" seo="true" mt="1582091477247" redirect="true"/>
+  <file name="fokusnik_na_den_rozhdeniya_rebenka.html" crc="4274190899" seo="true" mt="1582091477247" redirect="true"/>
+  <file name="fokusnik_na_vipusknoi.html" crc="237477836" seo="true" mt="1582091477247" redirect="true"/>
+  <file name="otzyvy.html" crc="3925446442" seo="true" mt="1582091477247" redirect="true"/>
+  <file name="shkola_volshebstva.html" crc="4152048234" seo="true" mt="1582091477247" redirect="true"/>
+  <file name="master_klass.html" crc="502758008" seo="true" mt="1582091477247" redirect="true"/>
+  <file name="zayavka.html" crc="4249159874" mt="1533347197721" redirect="true"/>
+  <file name="spasibo.html" crc="4005688139" seo="true" mt="1582091477247" redirect="true"/>
+  <file name="otzyvy-копия.html" crc="82182571" seo="true" mt="1582091477247" redirect="true"/>
+</manifest>
